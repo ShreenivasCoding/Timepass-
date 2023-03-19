@@ -1,31 +1,113 @@
-
 <!DOCTYPE html>
 <html>
 <head>
   <title>Timepass! </title>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <style>
     .Image {
        text-align: center;
     }
-    body {
-      background-color: orange;
-    }
+     body {
+       background-color: orange;
+     }
      .Download {
         text-align: center;
         font-size: 40px;
      }
+     .w3-bar w3-black {
+       Background-color: black;
+      text-size: 100px;
+     }
+     p {
+       font-size: 50px;
+       font-family: italic;
+     }
+     .w3-btn w3-black w3-border w3-round {
+       margin:bottom right;
+     }
   </style>
+
   </head>
   <body>
+</div>
+
+
+<div class="w3-bar w3-blue">
+  <a href="#" class="w3-bar-item w3-button">Home</a>
+  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+
     
 <div class="Image">
     <img src="https://www.appcreator24.com/android-app-creator/launchers/101.png"><br></br>
     </div>
-    <h1 style="text-align: center">TIMEPASS! </h1><br>
-    <div class="Download">
-    <a href="https://apk.e-droid.net/apk/app2493297-idg3fo.apk?v=1"Download>Download</a>
-    </div><br>
-   <h2 style="text-align: center">Website Under Developing stages
-        still you  can Download the app.</h2>
-  </body>
-  </html>
+   
+   <h1 style="text-align: center">Timepass! </h1><br>
+   <div class="w3-container">
+  
+  <div class="w3-panel w3-border-left w3-border-blue">
+    <h1>About </h1>
+  </div>
+  </div>
+
+</div><br>
+
+<p><u>Perfect app to brighten your daily mood with amazing collection of "Arcade Games".</u></p><br>
+
+          <div  class="w3-panel w3-border-left w3-border-blue">
+  <h1>Privacy and content policy</h1>
+</div><br>
+<p style="background-color:red">*The app contains social functions,
+like chats, with the objective users
+can share information.<br>
+* Consequently, the app can ask the
+user to enter personal data such as
+pictures or birthday.<br>
+ *These personal data are displayed
+to other users of the app. These data
+aren't shared with any other entity or
+third organizations.<br>
+* Users can delete their personal
+data using the link for that purpose
+that exists in the user profile options
+in the app.<br>
+
+*It's prohibited to publish content
+for adults only, like images with
+sexual content or images of extreme
+violence.<br>
+*Images and Videos entered
+by the user are sent to the
+imgs1.e-droid.net server in order
+to be retrieved later by the user
+himself, and so that the app can
+offer the functionalities according to
+its description.<br>
+* We allow third-party companies
+to serve ads and collect certain
+anonymous information when you
+visit our app. These companies may
+use anonymous information such
+as your Google Advertising ID, your
+device type and version, browsing
+activity, location and other technical
+data relating to your device, in order
+to provide advertisements.</p><br>
+
+<div class="w3-sidebar w3-light-grey w3-bar-block" style="width:25%"></div>
+
+<div class="w3-container">
+
+
+<a href="https://shreenivascoding.github.io/Github_trial/">
+<p><button class="w3-btn w3-black  w3-border w3-round">Next
+<span class="w3-badge w3-margin-bottom right w3-white">></span>
+</button></p></a>
+
+</div>
+</body>
+</html>
